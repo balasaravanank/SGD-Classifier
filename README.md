@@ -64,12 +64,20 @@ plt.title('Confusion Matrix')
 plt.xlabel('Predicted')
 plt.ylabel('Actual')
 plt.show()
-
-
 ```
 
 ## Output:
+## DATASET
+![Screenshot 2025-04-16 221413](https://github.com/user-attachments/assets/ff71bfa6-6e3f-4a89-8a75-a1d2a4be05fa)
 
+## TRAIN SGC CLASSIFIER
+![Screenshot 2025-04-16 221521](https://github.com/user-attachments/assets/e1ca07e8-1a16-45ce-88d7-edd559d9895a)
+
+## PREDICTIONS AND EVALUATE
+![Screenshot 2025-04-16 221544](https://github.com/user-attachments/assets/cd230832-3dca-4719-9b6d-cc6783dd1b9a)
+
+## CONFUSION MATRIX
+![Screenshot 2025-04-16 221700](https://github.com/user-attachments/assets/62575372-d3c4-476f-8e1d-c3b33cf2a307)
 
 ## Developed by : BALA SARAVANAN K
 ## Reg no: 24900611
